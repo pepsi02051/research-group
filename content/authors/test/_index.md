@@ -11,7 +11,11 @@ social:
     link: https://www.hku.hk/
     icon: https://glittering-brioche-1c274f.netlify.app/people/testing
     icon_pack: far
-organizations: []
+organizations:
+  - name: HKU
+email: tesing@emial.com
 superuser: true
+user_groups:
+  - tesing
 ---
 T﻿est
