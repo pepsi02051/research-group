@@ -8,11 +8,8 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-bio: ""
-interests:
-  - Computational Epidemiology
-  - Machine Learning
-  - Data Science
+bio: Test
+interests: []
 social:
   - display:
       header: false
@@ -26,3 +23,4 @@ user_groups: []
 last_name: Wu
 first_name: Alice
 ---
+T﻿est
