@@ -13,7 +13,12 @@ interests:
   - Computational Epidemiology
   - Machine Learning
   - Data Science
-social: []
+social:
+  - display:
+      header: false
+    link: https://www.hku.hk/
+    icon_pack: far
+    icon: hku
 education:
   courses: []
 email: ""
