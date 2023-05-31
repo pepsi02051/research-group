@@ -1,12 +1,13 @@
 ---
+title: "Example "
+role: Professor
+avatar_filename: 4fab5230282f49399cf5b4d87bb908a.png
 organizations:
   - name: Hong Kong University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: "Example "
-role: Professor
 bio: ""
 interests:
   - Computational Epidemiology
