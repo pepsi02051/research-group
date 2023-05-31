@@ -11,6 +11,7 @@ social:
     link: https://www.hku.hk/
     icon: https://glittering-brioche-1c274f.netlify.app/people/testing
     icon_pack: far
-superuser: false
+organizations: []
+superuser: true
 ---
 T﻿est
